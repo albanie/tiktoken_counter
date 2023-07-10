@@ -1,0 +1,2 @@
+beartype
+tiktoken==0.3.3
