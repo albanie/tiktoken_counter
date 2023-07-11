@@ -4,7 +4,7 @@ A simple [streamlit](https://streamlit.io/) app that computes the number of [tik
 
 ## Use the app
 
-Web app available [here](https://albanie-tiktoken_counter-main-dgpnp0.streamlit.app/).
+Web app available [here](https://albanie-tiktoken-counter-main-rdjp0k.streamlit.app/).
 
 You can also run the app locally via:
 
